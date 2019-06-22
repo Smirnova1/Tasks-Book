@@ -4,11 +4,11 @@ The **Tasks Book** is realized on Laravel 5.8 and MySQL.
 #Introduction
 This is a simple tasks book for adding tasks, viewing the entire list of tasks, editing a task (for Admin). The project includes sorting by name, sorting by e-mail, filtering by status. Also implemented a preview of the task when adding a new task.
 
-#Official Documentation
+# Official Documentation
 
 Documentation for the framework can be found on the [Laravel documentation](https://laravel.com/docs/5.8)
 
-#How to use:
+# How to use:
 ###### For appropriate work of the program you need:
 
  Create an empty Database 
